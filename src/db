@@ -1,0 +1,4 @@
+
+//Insert Roles
+INSERT INTO `ta-skripsi`.`roles` (`id`, `name`)
+VALUES ('1', 'USER'),('2', 'ADMIN'),('3', 'MODERATOR');
